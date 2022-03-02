@@ -2,21 +2,25 @@
     {
         "id":1,
         "title": "Sakız",
-        "price": 0.5
+        "price": 0.5,
+        "image": "https://productimages.hepsiburada.net/s/22/375/9952480460850.jpg"
     },
     {
         "id":2,
         "title": "Kola",
-        "price": 6
+        "price": 6,
+        "image": "https://www.mismarsanalmarket.com/UserFiles/Fotograflar/org/226-5449000000439-jpg-5449000000439.jpg"
     },
     {
         "id":3,
         "title": "Ayakkabı",
-        "price": 1200
+        "price": 300,
+        "image": "https://cdn-ss.akinon.net/products/2020/08/18/147252/36957459-7dfb-470b-88b9-eb90419ef0ae_size1400x1400_quality100_cropCenter.jpg"
     },
     {
         "id":4,
         "title": "Araba",
-        "price": 540600
+        "price": 40000,
+        "image": "https://cdn03.ciceksepeti.com/cicek/kc6574846-1/XL/toysan-oyuncak-surtmeli-super-car-ferrari-oyuncak-spor-araba-toy-09-kirmizi-kc6574846-1-f71aede0f2334eef839ac8bf1a964e80.jpg"
     }
 ]
