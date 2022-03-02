@@ -4,7 +4,7 @@ function Header({money}) { //prop olarak money aldık
   return (
       
     <>
-    <div>
+    <div className='money'>
 
         Harcamak için {money} $ paranız var.
 
